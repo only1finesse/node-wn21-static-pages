@@ -1,0 +1,1 @@
+# node-wn21-static-pages
